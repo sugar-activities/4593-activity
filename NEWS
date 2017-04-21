@@ -1,0 +1,45 @@
+7
+
+ENHANCEMENT:
+* Ignacio Rodriguez port to gtk3
+
+6
+
+ENHANCEMENT:
+* New translations
+* Added summary string to activity.info file
+
+5
+
+ENHANCEMENT:
+* New translations
+* Longer flash to indicate robot moves
+
+BUG FIX:
+* Don't reload board after illegal move
+* Don't let robot play after aborted move
+
+4
+
+ENHANCEMENT:
+* New translations (es, da)
+* Highlight robot moves
+* Label rank and file
+
+BUG FIX:
+* Fixed problem with Copy
+
+3
+
+ENHANCEMENT:
+* Support for ARM (e.g., XO 1.75)
+
+2
+
+ENHANCEMENT:
+* Optional use of Sugar colors for pieces
+
+1
+
+* New activity: simple Sugar interface to gnuchess. Note: requires a
+  binary (currently not built for ARM).
